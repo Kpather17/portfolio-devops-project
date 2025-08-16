@@ -17,11 +17,11 @@ This project demonstrates my DevOps skills by showing:
 ### Key Proofs
 | Screenshot | Explanation |
 |------------|-------------|
-| ![S3 Bucket Config](/screenshots/s3-bucket-config.png) | Properly configured S3 bucket for static hosting |
-| ![IAM Policies](/screenshots/iam-policy-details.png) | Least-privilege permissions for manual uploads |
+| ![S3 Bucket Config](1-terraform-code.png) | Properly configured S3 bucket for static hosting |
+| ![S3 Bucket Config](2-terraform-code.png) | Properly configured S3 bucket for static hosting |
 
-**Why this matters**:  
-Shows foundational cloud skills before automation.
+
+**Demonstarting foundational cloud skills before automation**
 
 ---
 
