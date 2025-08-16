@@ -19,6 +19,7 @@ This project demonstrates my DevOps skills by showing:
 |------------|-------------|
 | ![S3 Bucket Config](1-terraform-code.png) | Properly configured S3 bucket for static hosting |
 | ![S3 Bucket Config](2-terraform-code.png) | Properly configured S3 bucket for static hosting |
+> **Note**: All AWS configurations are reproducible via Terraform in `/infra`.
 
 
 **Demonstarting foundational cloud skills before automation**
